@@ -77,3 +77,6 @@ if st.button("Clear Chat History"):
     st.experimental_rerun()
 
 # run cmd:   streamlit run /Users/sagar/Desktop/fin-ai/FinRobot_test/market_forcaster_ui.py
+
+
+# to display-   all the "Market_Analyst (to User_Proxy): "
